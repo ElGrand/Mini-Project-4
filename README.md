@@ -15,11 +15,10 @@ the one with highest accuracy
 results of your work
 - to test the models and the application with previously unknown input data and printout the
 outcomes
-
-
-
-
-
+-
+-
+-
+-
 Most accurate: Decision Tree on 0.797 (Proportion 7.5 : 2.5)
 
 There is no Bayes algorithm in the Streamlit Web App, as I had difficulties with some error handlings. Therefore, there is only a Streamlit Web App with the Decision Tree.
